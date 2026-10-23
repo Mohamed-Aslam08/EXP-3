@@ -51,6 +51,8 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 
+![image alt](https://github.com/Mohamed-Aslam08/EXP-3/blob/a306ce8829b19beab716266da684c25adec43ef6/Screenshot%202026-10-23%20224507.png)
+
 Tabulation:2
 
 RESULT:
