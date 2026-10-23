@@ -62,5 +62,4 @@ Tabulation:2
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-3/blob/3f6a72e58d547a0cef3dd7d78dd110152204ab52/cross.jpg)
 
 RESULT:
-
 Thus the staircase wiring is connected and tested.
