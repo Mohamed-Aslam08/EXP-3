@@ -47,8 +47,7 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:1
 
-
-
+![image alt](https://github.com/Mohamed-Aslam08/EXP-3/blob/44176560cc7ed9708eaffb84e6000116abdceb67/direct.jpg)
 	
 Cross connection: CIRCUIT DIAGRAM:
 
