@@ -53,6 +53,10 @@ Cross connection: CIRCUIT DIAGRAM:
 
 ![image alt](https://github.com/Mohamed-Aslam08/EXP-3/blob/a306ce8829b19beab716266da684c25adec43ef6/Screenshot%202026-10-23%20224507.png)
 
+
+![image alt](https://github.com/Mohamed-Aslam08/EXP-3/blob/68adb10c97b455160a4b1cdbc3776a6260dbb1c9/Screenshot%202026-10-23%20224705.png)
+
+
 Tabulation:2
 
 RESULT:
